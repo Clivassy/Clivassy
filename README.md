@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">Student at 42 school</h3>
 
 - 📫 How to reach me **julia.batoro@gmail.com**
