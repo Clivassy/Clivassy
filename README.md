@@ -1,4 +1,4 @@
-<h3 align="center">Student at 42 school</h3>
+<h3 align="left">Student at 42 school</h3>
 
 - 📫 How to reach me **julia.batoro@gmail.com**
 
