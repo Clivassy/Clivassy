@@ -8,7 +8,6 @@ Let's talk about your projects (or mine) !
 * ✉️  You can contact me at [julia.batoro@gmail.com](mailto:julia.batoro@gmail.com)
 * 🧠  I'm learning smart contracts in Solidity and more about blockchain Ethereum
 * 🤝  I'm open to collaborating on Backend and Blockchain projects 
-* ⚡  I love to eat as much as I love to code, and trust me, I'm always hungry for more!
 
 ### Skills  
 
