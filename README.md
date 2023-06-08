@@ -6,7 +6,7 @@ Just two years ago, coding was like a black box to me and seemed completely fore
 Let's talk about your projects (or mine) ! 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [julia.batoro@gmail.com](mailto:julia.batoro@gmail.com)
-* 🧠  I'm learning Nestjs, Typescript and Postgresql 
+* 🧠  I'm learning smart contracts in Solidity and more about blockchain Ethereum
 * 🤝  I'm open to collaborating on Backend and Blockchain projects 
 * ⚡  I love to eat as much as I love to code, and trust me, I'm always hungry for more!
 
