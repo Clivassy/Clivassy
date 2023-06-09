@@ -7,7 +7,7 @@ I am excited to dive deeper into this ever-evolving field, continuously expandin
 Let's talk about your projects (or mine) ! 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [julia.batoro@gmail.com](mailto:julia.batoro@gmail.com)
-* 🧠  I'm learning smart contracts in Solidity and more about blockchain Ethereum
+* 🧠  Currently, I'm learning smart contracts in Solidity and more about blockchain Ethereum
 * 🤝  I'm open to collaborating on Backend and Blockchain projects 
 
 ### Skills  
