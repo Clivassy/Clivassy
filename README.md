@@ -1,8 +1,7 @@
 Hi 👋 My name is Julia
 =============================================================================================================================  
 Software Engineer Student at 42 School
---------------------------------------  
-Just two years ago, coding was like a black box to me and seemed completely foreign to my world. But after completing Ecole 42, I fell in love with its endless possibilities. <br>
+-------------------------------------- 
 I am excited to dive deeper into this ever-evolving field, continuously expanding my skills and honing my craft. <br>
 Let's talk about your projects (or mine) ! 
 * 🌍  I'm based in Paris
