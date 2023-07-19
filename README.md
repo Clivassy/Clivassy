@@ -2,7 +2,6 @@ Hi 👋 My name is Julia
 =============================================================================================================================  
 Software Engineer Student at 42 School
 -------------------------------------- 
-I am excited to dive deeper into this ever-evolving field, continuously expanding my skills and honing my craft. <br>
 Let's talk about your projects (or mine) ! 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [julia.batoro@gmail.com](mailto:julia.batoro@gmail.com)
