@@ -5,7 +5,7 @@ Software Engineer Student at 42 School
 Let's talk about your projects (or mine) ! 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [julia.batoro@gmail.com](mailto:julia.batoro@gmail.com)
-* 🧠  Currently, I'm learning building Nextjs fullstack app improving my frontend and backend skills.
+* 🧠  Currently, I'm building Nextjs fullstack apps improving my frontend and backend skills.
 * 🤝  I'm open to collaborate on any innovating project. 
 
 ### Skills  
