@@ -1,6 +1,6 @@
 Hi 👋 My name is Julia
 =============================================================================================================================  
-Software Engineer - 42 School
+Software Engineer - 42 School Alumni
 -------------------------------------- 
 Let's talk about your projects (or mine) ! 
 * 🌍  I'm based in Paris, but often in Bordeaux. 
