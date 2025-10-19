@@ -1,11 +1,11 @@
 Hi 👋 My name is Julia
 =============================================================================================================================  
-Software Engineer - 42 School Alumni
+Software Engineer - 42 School Alumni - AI driven
 -------------------------------------- 
 Let's talk about your projects (or mine) ! 
 * 🌍  I'm based in Paris, but often in Bordeaux. 
 * ✉️  You can contact me at [julia.batoro@gmail.com](mailto:julia.batoro@gmail.com)
-* 🧠  Currently, I'm building my dev agency after working as a freelancer for 2 years <br/> My favorite stack right now is Nextjs + Typescript + React + Prisma + Postgresql 
+* 🧠  Currently, I'm building my dev agency after working as a freelancer for 3 years <br/> My favorite stack right now is Nextjs + Typescript + React + Prisma + Postgresql 
 * 🤝  I'm open to collaborate on any innovating project. 
 
 ### Skills  
